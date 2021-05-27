@@ -2,15 +2,20 @@ body {
 	background-color: lightsteelblue;
 }
 h1 {
-	color: darkolivegreen;
+	color: black;
+	text-align: center;
+	font-family: Arial;
+
+
 }
 
 ul {
-list-style-type: none;
-margin: 0;
-padding: 0;
-overflow: hidden;
-background-color: #333;
+	font-family: Arial;
+	list-style-type: none;
+	margin: 50;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
 }
 
 li {
@@ -29,3 +34,4 @@ li a {
 li a:hover {
 	background-color: #111;
 }
+
