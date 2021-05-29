@@ -1,0 +1,4 @@
+git add filename.txt
+git status
+git commit -m "first commit" filename.txt
+git push -u origin master (main) depending
