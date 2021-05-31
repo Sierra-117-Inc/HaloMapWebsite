@@ -1,3 +1,5 @@
 document.getElementById('pit').addEventListener('click', display);
 
-function display()
+function display() {
+	location.replace("./thePit.html");
+}
