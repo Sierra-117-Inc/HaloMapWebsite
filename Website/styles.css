@@ -38,9 +38,10 @@ li a:hover {
 #pitText {
 	 
     width: 400px;
-    height: 250px;
-    border: 1px solid blue;
-	background-color: azure;
+    height: 170px;
+    color: white;
+    padding: 20px;
+	background-color:;
 	font-size: larger;
 }
 
