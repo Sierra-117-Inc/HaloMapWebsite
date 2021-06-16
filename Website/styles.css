@@ -1,0 +1,72 @@
+body {
+	background-color: lightsteelblue;
+}
+.title {
+	color: rgb(255, 255, 255);
+	text-align: center;
+	font-size: 300%;
+	font-family: "Audiowide", sans-serif;
+
+
+}
+
+ul {
+	font-family: Arial;
+	list-style-type: none;
+	margin: 50;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+/* change the link color to #111 on hover */
+li a:hover {
+	background-color: #111;
+}
+
+#pitText {
+	 
+    width: 400px;
+    height: 170px;
+    color: white;
+    padding: 20px;
+	background-color:;
+	font-size: larger;
+}
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+img {
+	max-width: 100%;
+}
+.image {
+	flex-basis: 100%;
+}
+.imageMaps {
+	flex-basis: 30%;
+}
+.text {
+	color: white;
+	font-size: 20px;
+	padding-left: 20px;
+}
+.mapsText {
+	color: white;
+	font-size: 30px;
+	padding-left: 20px;
+}
